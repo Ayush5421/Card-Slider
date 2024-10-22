@@ -1,4 +1,5 @@
 console.clear();
+
 const { gsap, imagesLoaded } = window;
 const buttons = {
 	prev: document.querySelector(".btn--left"),
